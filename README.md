@@ -1,2 +1,2 @@
 # Facebook-Hacker-Cup-2020
-A coding competition ran by Facebook
+This repository contains all the problems that I met in the Fackbook Hacker Cup 2020 coding competition.
